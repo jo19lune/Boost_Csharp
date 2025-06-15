@@ -1,0 +1,11 @@
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Debug\Boost_CSharp.exe.config
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Debug\MaBase.mdf
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Debug\MaBase_log.ldf
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Debug\Boost_CSharp.exe
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Debug\Boost_CSharp.pdb
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Debug\Boost_CSharp.csprojResolveAssemblyReference.cache
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Debug\Boost_CSharp.Form1.resources
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Debug\Boost_CSharp.Properties.Resources.resources
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Debug\Boost_CSharp.csproj.GenerateResource.Cache
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Debug\Boost_CSharp.exe
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Debug\Boost_CSharp.pdb

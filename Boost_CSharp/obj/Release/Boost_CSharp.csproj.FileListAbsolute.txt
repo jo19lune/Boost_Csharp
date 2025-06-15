@@ -1,0 +1,10 @@
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Release\Boost_CSharp.exe.config
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Release\Boost_CSharp.Form1.resources
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Release\Boost_CSharp.Properties.Resources.resources
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Release\Boost_CSharp.csproj.GenerateResource.Cache
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Release\MaBase.mdf
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Release\MaBase_log.ldf
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Release\Boost_CSharp.exe
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\bin\Release\Boost_CSharp.pdb
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Release\Boost_CSharp.exe
+D:\exercices\csharp\Boost_CSharp\Boost_CSharp\obj\Release\Boost_CSharp.pdb
